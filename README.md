@@ -5,4 +5,4 @@ teaching repository for Digital Design
 * blender
 * blender geometry nodes
 * blockchain smart contracts
-
+:-)
