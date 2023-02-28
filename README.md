@@ -3,4 +3,9 @@ teaching repository for Digital Design
 
 - Digital design includes:
 # blender
-# geometry nodes 
+# block chain
+
+- Blender exercises:
+# geometry nodes
+# modifiers
+# shape grammar
