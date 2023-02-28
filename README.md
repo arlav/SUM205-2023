@@ -1,7 +1,11 @@
 # SUM205-2023
 teaching repository for Digital Design
-# positive to learn
-# because I know I can
-# Thank you
 
+- Digital design includes:
+# blender
+# block chain
 
+- Blender exercises:
+# geometry nodes
+# modifiers
+# shape grammar
