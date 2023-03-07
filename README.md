@@ -8,3 +8,6 @@ Here are the links we will use today:
 
 ## METAMASK
 - [metamask](https://metamask.io/)
+
+## OpenZeppelin Wizard
+- [OpenZeppelin Wizard](https://docs.openzeppelin.com/contracts/4.x/wizard)
